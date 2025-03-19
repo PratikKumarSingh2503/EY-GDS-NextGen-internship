@@ -23,7 +23,7 @@
   <li>Express - Fast, minimalist web framework for Node.js.</li>
   <li>MongoDB - NoSQL database that uses a document-oriented data model.</li>
   <li>JWT - JSON Web Tokens for secure authentication and authorization.</li>
-  <li>React - JavaScript library for building user interfaces.</li>
+  <li>Vite - JavaScript tool for building user interfaces.</li>
   <li>Context API - React's Context API for state management.</li>
   <li>Tailwind CSS - CSS framework that allows for easy customization and rapid development.</li>
 </ul>
